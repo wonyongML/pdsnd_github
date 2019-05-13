@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+
+Project was made in 2019.03.11
+README.md is written in 2019.05.11
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+Explore bikeshare data of Chicago,New York city, Washington by month and day.
+Find most frequent times of travel, most popular station.
 
 ### Files used
-Include the files used
+chicago.csv, new_york_city.csv,washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Data (chicago.csv, new_york_city.csv,washington.csv) were provided by Udacity.
