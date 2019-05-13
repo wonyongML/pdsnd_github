@@ -8,7 +8,7 @@ Explore US Bikeshare data
 
 ### Description
 Explore bikeshare data of Chicago,New York city, Washington by month and day.
-Find most frequent times of travel, most popular station.
+Find most frequent times of travel, most popular station and travel duration.
 
 ### Files used
 chicago.csv, new_york_city.csv,washington.csv
